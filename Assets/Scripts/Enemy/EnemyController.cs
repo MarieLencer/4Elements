@@ -1,3 +1,7 @@
+/* Reference Note:
+ * The following tutorials / documentation was used in this script:
+ * Player Detection: https://www.youtube.com/watch?v=j1-OyLo77ss
+ */
 using System;
 using System.Collections;
 using System.Collections.Generic;

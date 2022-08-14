@@ -18,19 +18,16 @@ public class PlayerManager : MonoBehaviour
   
     private void OnEnable()
     {
-        Debug.Log("enabled");
         SceneManager.sceneLoaded += OnStartScene;
     }
 
     private void OnDisable()
     {
-        Debug.Log("disabled");
         SceneManager.sceneLoaded -= OnStartScene;
     }
 
     void OnStartScene(Scene scene, LoadSceneMode mode)
     {
-        Debug.Log("start scene");
         GameObject settingsObject = GameObject.Find("GameSettings");
         settings = settingsObject.GetComponent<GameSettings>();
         Debug.Log(settings.GetNumPlayers());
@@ -50,9 +47,7 @@ public class PlayerManager : MonoBehaviour
             {
                 players[i].GetComponent<PlayerMovement>().SetEnabled(false);
             }
-            
         }
-           
     }
 
     public int getPlayerMaxLife()

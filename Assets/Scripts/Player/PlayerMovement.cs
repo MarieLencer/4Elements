@@ -1,3 +1,8 @@
+/* Reference Note:
+ * The following tutorials / documentation was used in this script:
+ * Movement: https://www.youtube.com/watch?v=vFV0uJ0KE2Q
+ */
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
