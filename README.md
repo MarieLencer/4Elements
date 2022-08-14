@@ -34,6 +34,7 @@ Escape key for pausing the gaming and exiting.
 - [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353) - Render Knight, Version 1.6.0
 - [Free Low Poly Nature Forest](https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-forest-205742) - Pure Poly, Version 1.1
 - [Lowpoly Textures Pack](https://assetstore.unity.com/packages/2d/textures-materials/lowpoly-textures-pack-140717) - N-hance Studio, Version 1.0
+- [NavMesh-Tutorial](https://github.com/Brackeys/NavMesh-Tutorial) - [Brackeys](https://github.com/Brackeys)
 - [Simple Forest Pack](https://assetstore.unity.com/packages/3d/environments/simple-forest-pack-209273) - Soft Poly Studios, Version 1.1
 - [Simplistic Low Poly Nature](https://assetstore.unity.com/packages/3d/environments/simplistic-low-poly-nature-93894) - Acorn Bringer, Version 1.0
 - [Stylized Lava materials](https://assetstore.unity.com/packages/2d/textures-materials/stylized-lava-materials-180943) - Rob luo, Version 1.0
@@ -43,7 +44,7 @@ Escape key for pausing the gaming and exiting.
 - [graphy](https://github.com/Tayx94/graphy/blob/master/Runtime/Fps/G_FpsGraph.cs) - [Martín Pane](https://github.com/Tayx94)
 - [How to Add a Field of View for Your Enemies [Unity Tutorial]](https://www.youtube.com/watch?v=j1-OyLo77ss) - Comp-3 Interactive 
 - [How to use RAY TRACING in Unity 2021](https://www.youtube.com/watch?v=iMhURxYsCSg) - UGuruz
-- [NavMesh-Tutorial](https://github.com/Brackeys/NavMesh-Tutorial) - [Brackeys](https://github.com/Brackeys)
+- [Unity NavMesh Tutorial - Basics](https://www.youtube.com/watch?v=CHV1ymlw-P8) - Brackeys
 - [Runtime NavMesh Generation](https://learn.unity.com/tutorial/runtime-navmesh-generation) - Unity Technologies
 - [SIMPLE CARTOON WATER in Unity](https://www.youtube.com/watch?v=Vg0L9aCRWPE) - Brackeys
 - [Unity 5 - Game Effects VFX - Fireball Spell / Projectile](https://www.youtube.com/watch?v=-P09r-ALN38) - Gabriel Aguiar Prod.
