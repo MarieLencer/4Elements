@@ -14,8 +14,10 @@ Players:
 1. Movement: WASD, Attacking: C
 2. Movement: arrow keys, Attacking: right control key
 3. Movement: IJKL, Attacking: period (.) key
-4. Movement: NumPad 4,5,6 and 8, Attacking: NumPad 0 
-Escape key for pausing the gaming and exiting. Using the exit button will save a .csv file with the recorded fps in the persistent data path of Unity. To avoid this exit via ALT + F4.
+4. Movement: NumPad 4,5,6 and 8, Attacking: NumPad 0  
+
+Escape key for pausing the gaming and exiting.  
+<b>Note</b>: Using the exit button will save a .csv file with the recorded fps in the persistent data path of Unity. To avoid this exit via ALT + F4.
 
 ## Resources
 ### Software
